@@ -1,5 +1,10 @@
 # Todo App in React
 
+## Hosted Link
+You can view the live version of the app here: [Todo App](https://sage-pasca-04291f.netlify.app/)
+
+---
+
 ## Description
 This is a simple yet powerful **Todo Application** built with **React** and **Tailwind CSS**. The app helps users manage their tasks efficiently with features like adding, updating, toggling completion, and deleting todos. The app also persists todos using **localStorage**, ensuring tasks are saved even after refreshing the browser.
 
